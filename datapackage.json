@@ -2,7 +2,7 @@
   "name": "student-enrollment-by-meal-eligibility",
   "datapackage_version": "1.0-beta.18",
   "title": "Student Enrollment by Meal Eligibility",
-  "description": "Student Enrollment reports the number of enrolled students per year, per subgroup.",
+  "description": "Student Enrollment reports the number of enrolled students per year, per meal eligibility.",
   "version": "1.0",
   "licenses": [{
     "url": "http://opendatacommons.org/licenses/pddl/",
